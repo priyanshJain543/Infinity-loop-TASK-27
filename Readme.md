@@ -4,8 +4,7 @@ A professional, high-performance generative art engine built with HTML5 Canvas. 
 
 ## 🔗 Live Demo
 Check out the live project here:  
-**[👉 Click here to View Live Demo]( https://priyanshjain543.github.io/Infinity-loop-TASK-27/git add README.md)** *(Replace this link with your GitHub Pages URL after hosting)*
-
+## 👉 Click here to View Live Demo **()**
 ---
 
 ## 🚀 Key Features
